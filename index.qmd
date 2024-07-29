@@ -1,10 +1,34 @@
 ---
-title: "Demo"
+title: "A New Era"
+subtitle: "Shiny-based Clinical Submissions using WebAssembly"
+author: Eric Nantz
+institute: "Eli Lilly & Company"
+date: "August 13, 2024"
 format: revealjs
 ---
 
-# First section
+# Introduction Story
 
-## Hello Slide!
+## After Database Lock
 
-This is a great slide!
+::: {.notes}
+A clinical trial just achieves their primary database lock. A multitude of analyses and visualizations are generated with the "real" data.
+:::
+
+## Volume of Outputs
+
+::: {.notes}
+Imagine you are reviewing these results. Sure, the primary analysis results meet the benchmark for statistical significance. But this is a complex disease state, requiring you to investigate how key efficacy, lab measures, and safety link together. 
+:::
+
+## Static
+
+::: {.notes}
+Time to comb through many static outputs. How many outputs are there total? Over 1,000 tables, listings, and graphs.
+:::
+
+## Can we do better?
+
+::: {.notes}
+Instead of opening / reading these static outputs, what if we had a streamlined interactive application to optimize the review process?
+:::
