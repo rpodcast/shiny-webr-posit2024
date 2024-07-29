@@ -32,3 +32,49 @@ Time to comb through many static outputs. How many outputs are there total? Over
 ::: {.notes}
 Instead of opening / reading these static outputs, what if we had a streamlined interactive application to optimize the review process?
 :::
+
+# Opportunity of a Lifetime
+
+## R Submissions Working Group {.smaller}
+
+![](assets/img/pilot1_kmplot.png){.absolute top=70 left=-50 width="47%"}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+:::
+
+::: {.column width="50%"}
+
+* Industry **and Regulatory** members
+* Create submission deliverables with **open-source** software
+* Emulate realistic submission review
+* Innovation encouraged!
+
+:::
+
+::::
+
+::: footer
+[rconsortium.github.io/submissions-wg](https://rconsortium.github.io/submissions-wg/)
+:::
+
+## {data-menu-title="Build Slide"}
+
+## {background-image="assets/img/shinydevseries_livestream.png"}
+
+## {background-image="assets/img/flynn_solo_computer.jpeg"}
+
+## {background-image="assets/img/rpharma_audience.jpg"}
+
+::: {.absolute left="1%" top="-10%" style="font-size:1.8em; padding: 0.5em 1em; background-color: rgba(255, 255, 255, .5); backdrop-filter: blur(5px); box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .5); border-radius: 5px;"}
+R/Pharma 2018
+:::
+
+::: {.notes}
+I saw firsthand the potential of such a collaboration with the advent of the R/Pharma conference. 
+:::
+
+## A Shiny Foundation
+
