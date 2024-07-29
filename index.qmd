@@ -7,21 +7,27 @@ date: "August 13, 2024"
 format: revealjs
 ---
 
-# Introduction Story
+## {background-image="assets/img/nature-sun-sunset-evening-sky-preview.jpg" background-size="contain"}
 
-## After Database Lock
-
-::: {.notes}
-A clinical trial just achieves their primary database lock. A multitude of analyses and visualizations are generated with the "real" data.
+::: {.absolute left="-5%" top="-5%" style="font-size:1.8em; padding: 0.1em 0.5em; background-color: rgba(255, 255, 255, .5); backdrop-filter: blur(5px); box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .5); border-radius: 5px;"}
+The Big Reveal
 :::
 
-## Volume of Outputs
-
 ::: {.notes}
-Imagine you are reviewing these results. Sure, the primary analysis results meet the benchmark for statistical significance. But this is a complex disease state, requiring you to investigate how key efficacy, lab measures, and safety link together. 
+A clinical trial just achieves their primary database lock. A multitude of analyses and visualizations are generated with the "real" data. Imagine you are reviewing these results. Sure, the primary analysis results meet the benchmark for statistical significance. But this is a complex disease state, requiring you to investigate how key efficacy, lab measures, and safety link together. 
 :::
 
-## Static
+## {background-image="assets/img/wesley-tingey-snNHKZ-mGfE-unsplash.jpg" background-size="contain"}
+
+::: {.absolute left="-5%" top="-5%" style="font-size:1.8em; padding: 0.1em 0.5em; background-color: rgba(255, 255, 255, .5); backdrop-filter: blur(5px); box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .5); border-radius: 5px;"}
+Many Results
+:::
+
+::: {.notes}
+In the not-so-distant past, the results of a clinical trial were sent to reviewers as paper outputs that could fill a small moving truck
+:::
+
+## {background-image="assets/img/usb_computer_files.png" background-size="contain"}
 
 ::: {.notes}
 Time to comb through many static outputs. How many outputs are there total? Over 1,000 tables, listings, and graphs.
@@ -29,13 +35,23 @@ Time to comb through many static outputs. How many outputs are there total? Over
 
 ## Can we do better?
 
-::: {.notes}
-Instead of opening / reading these static outputs, what if we had a streamlined interactive application to optimize the review process?
+::: {.fragment}
+![](assets/img/shiny.png){.absolute top="30%" left="5%" width="30%"}
 :::
 
-# Opportunity of a Lifetime
+::: {.fragment}
+![](assets/img/plus.png){.absolute top="40%" right="40%" width="20%"}
 
-## R Submissions Working Group {.smaller}
+![](assets/img/webr.png){.absolute top="30%" right="5%" width="30%"}
+:::
+
+::: {.notes}
+Instead of opening / reading these static outputs, what if we had a streamlined interactive application to optimize the review process? The good news is that the technology is here now, thanks to the amazing innovations powered by open-source. Over 10 years ago, Shiny was released to empower R users with the ability to create interactive feature-rich web applications using R code. 
+
+More recently, the webR package was revealed at last year's posit conf to bring the power of web-assembly to the R ecosystem
+:::
+
+## R Submissions Working Group
 
 ![](assets/img/pilot1_kmplot.png){.absolute top=70 left=-50 width="47%"}
 
@@ -62,11 +78,11 @@ Instead of opening / reading these static outputs, what if we had a streamlined 
 
 ## {data-menu-title="Build Slide"}
 
-## {background-image="assets/img/shinydevseries_livestream.png"}
+## {background-image="assets/img/shinydevseries_livestream.png" background-size="contain"}
 
-## {background-image="assets/img/flynn_solo_computer.jpeg"}
+## {background-image="assets/img/flynn_solo_computer.jpeg" background-size="contain"}
 
-## {background-image="assets/img/rpharma_audience.jpg"}
+## {background-image="assets/img/rpharma_audience.jpg" background-size="contain"}
 
 ::: {.absolute left="1%" top="-10%" style="font-size:1.8em; padding: 0.5em 1em; background-color: rgba(255, 255, 255, .5); backdrop-filter: blur(5px); box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .5); border-radius: 5px;"}
 R/Pharma 2018
