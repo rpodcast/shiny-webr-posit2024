@@ -226,3 +226,72 @@ I saw firsthand the potential of such a collaboration with the advent of the R/P
 
 {{<video "assets/video/pilot4_webassembly_demo.mp4" >}}
 
+::: footer
+[submissions-pilot4-webr.netlify.app](https://submissions-pilot4-webr.netlify.app/)
+:::
+
+## The Future Ahead
+
+* Submission to FDA in progress
+* Investigate reproducibility features
+* Streamline execution process 
+
+## Acknowledgements
+
+:::: {.columns}
+
+::: {.column width=33%}
+
+![](assets/img/rconsortium.svg)
+
+::: {style="font-size: 60%;"}
+
+* Sam Parmar (Pfizer)
+
+* Ben Straub (GSK)
+
+* Robert Devine (J&J)
+
+* Saghir Bashir (Argenx)
+
+* Ning Leng (Roche)
+
+* Joe Rickert
+
+:::
+
+:::
+
+::: {.column width=33%}
+
+![](assets/img/appsilon_logo.png)
+
+::: {style="font-size: 60%;"}
+
+* Pedro Silva (Jumping Rivers)
+
+* André Veríssimo
+
+* Vedha Viyash
+
+* Pawel Rzymkiewicz (OlympCode)
+
+:::
+
+:::
+
+::: {.column width=33%}
+
+![](assets/img/fda_logo.png){width="60%"}
+
+::: {style="font-size: 60%;"}
+
+* Paul Schuette
+
+* Hye Soo Cho
+
+:::
+
+:::
+
+::::
