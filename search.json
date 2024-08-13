@@ -74,7 +74,7 @@
     "href": "index.html#engine-swap",
     "title": "",
     "section": "Engine Swap",
-    "text": "Engine Swap\n\n\n\n\n\n\nVerify packages compatibility with WebR\n\n{golem} {rhino}\n\nAugment shinylive::export to inject SAS data sets\nUser-friendly wrappers\nTest with custom Windows virtual machines\n\n\n\n\ngithub.com/RConsortium/submissions-pilot4-webR"
+    "text": "Engine Swap\n\n\n\n\n\n\nVerify packages compatibility with WebR\n\n{golem} {rhino}\n\nAugment shinylive::export to inject SAS data sets\nUser-friendly wrappers\nTest with custom Windows virtual machines\n\n\n\n\n\ndriver.R\n\nsource(\"utils.R\")\nextract_app_bundle()\nrun_app_webassembly()\n\n\n\n\ngithub.com/RConsortium/submissions-pilot4-webR"
   },
   {
     "objectID": "index.html#with-great-power",
