@@ -4,7 +4,7 @@
     "href": "index.html#section",
     "title": "",
     "section": "",
-    "text": "A New Era\n\n\nShiny-based Clinical Submissions using WebAssembly\n\n  \n\nEric Nantz\n\n\nEli Lilly & Company\n\n\nposit::conf(2024)"
+    "text": "A New Era\n\n\nShiny-based Clinical Submissions using WebAssembly\n\n \n\nEric Nantz\n\n\nEli Lilly & Company\n\n\nposit::conf(2024) | August 13, 2024\n\n\nbit.ly/shinywebr"
   },
   {
     "objectID": "index.html#section-1",
@@ -88,7 +88,7 @@
     "href": "index.html#the-future-ahead",
     "title": "",
     "section": "The Future Ahead",
-    "text": "The Future Ahead\n\nSubmission to FDA in progress\nInvestigate reproducibility features\nStreamline execution process"
+    "text": "The Future Ahead\n\nSubmission to FDA in progress\nInvestigate reproducibility features\nStreamline execution process\nComplete container version (Docker)\n\n\nrconsortium.github.io/submissions-pilot4/"
   },
   {
     "objectID": "index.html#acknowledgements",
@@ -102,6 +102,6 @@
     "href": "index.html#thank-you",
     "title": "",
     "section": "Thank You!",
-    "text": "Thank You!\n\n\n Slides\n R-Podcast\n R Weekly Highlights\n @rpodcast\n eric-nantz\n rpodcast"
+    "text": "Thank You!\n\n\n R-Podcast\n R Weekly Highlights\n Shiny Developer Series\n @rpodcast\n eric-nantz\n rpodcast"
   }
 ]
