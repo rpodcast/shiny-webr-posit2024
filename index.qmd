@@ -18,10 +18,10 @@ generate_svg(url, filename = "assets/img/qr.svg")
 <h2> Shiny-based Clinical Submissions using WebAssembly </h2>
 <br>
 <br>
-<br>
 <h3> Eric Nantz </h3>
 <h3> Eli Lilly & Company </h3>
-<h3> posit::conf(2024) </h3>
+<h3> posit::conf(2024) | August 13, 2024 </h3>
+<h4> <a href="https://bit.ly/shinywebr">bit.ly/shinywebr</a> </h4>
 
 ![](assets/img/qr.svg){.absolute bottom=0 right=0 width="15%"}
 
@@ -100,6 +100,26 @@ More recently, the webR package was revealed at last year's posit conf to bring 
 :::
 
 ## {data-menu-title="Build Slide"}
+
+---
+
+::: {layout="[[1,1,1], [1,1]]"}
+
+![](assets/img/shinydevseries_collage/ep015.jpg)
+
+![](assets/img/shinydevseries_collage/ep021.jpg)
+
+![](assets/img/shinydevseries_collage/ep023.jpg)
+
+![](assets/img/shinydevseries_collage/ep026.jpg)
+
+![](assets/img/shinydevseries_collage/ep032.jpg)
+
+:::
+
+::: footer
+[shinydevseries.com](https://shinydevseries.com)
+:::
 
 ## {background-image="assets/img/shinydevseries_livestream.png" background-size="80%"}
 
@@ -243,7 +263,11 @@ I saw firsthand the potential of such a collaboration with the advent of the R/P
 
 ---
 
-{{< mastodon https://mstdn.social/@gws/112836695270039881>}}
+![](assets/img/mastodon_george_post_annotated.png)
+
+::: footer
+[mstdn.social/@gws](https://mstdn.social/@gws/112836695270039881)
+:::
 
 ---
 
@@ -255,7 +279,7 @@ I saw firsthand the potential of such a collaboration with the advent of the R/P
 
 ## With Great Power... 
 
-![](assets/img/app_filter.png){.absolute top=50 left=10}
+![](assets/img/app_filter.png){.absolute top=60 left=10 width="25%"}
 
 :::: {.columns}
 
@@ -283,6 +307,11 @@ I saw firsthand the potential of such a collaboration with the advent of the R/P
 * Submission to FDA in progress
 * Investigate reproducibility features
 * Streamline execution process 
+* Complete container version (Docker)
+
+::: footer
+[rconsortium.github.io/submissions-pilot4/](https://rconsortium.github.io/submissions-pilot4/)
+:::
 
 ## Acknowledgements
 
@@ -350,11 +379,11 @@ I saw firsthand the potential of such a collaboration with the advent of the R/P
 
 ::: {.column width=50%}
 
-{{< fa solid display >}} [Slides](https://rpodcast.github.io/shiny-webr-posit2024)
-
 {{< fa solid microphone size=xl >}} [R-Podcast](https://r-podcast.org)
 
 {{< fa solid microphone size=xl >}} [R Weekly Highlights](https://serve.podhome.fm/r-weekly-highlights)
+
+{{< fa solid display >}} [Shiny Developer Series](https://shinydevseries.com)
 
 {{< fa brands mastodon size=xl >}} [\@rpodcast](https://podcastindex.org/@rpodcast)
 
