@@ -1,0 +1,12 @@
+project:
+  type: website
+  
+website: 
+  site-url: "https://rpodcast.github.io/shiny-webr-posit2024"
+  twitter-card:
+    image: "assets/img/planets.jpg"
+    card-style: summary_large_image
+    description: "The journey of creating a Shiny app powered by web-assembly for a pilot submission."
+
+execute: 
+  freeze: auto

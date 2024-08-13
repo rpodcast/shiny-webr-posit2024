@@ -1,13 +1,33 @@
 ---
-title: "A New Era"
-subtitle: "Shiny-based Clinical Submissions using WebAssembly"
-author: Eric Nantz
-institute: "Eli Lilly & Company"
-date: "August 13, 2024"
-format: revealjs
+format:
+  revealjs:
+    center-title-slide: false
+    link-external-newwindow: true
 ---
 
+```{r}
+#| include: false
+library(qrcode)
+url <- qr_code("https://rpodcast.github.io/shiny-webr-posit2024")
+generate_svg(url, filename = "assets/img/qr.svg")
+```
+
+## {background-image="assets/img/planets.jpg" background-size="cover" background-opacity="0.75"}
+
+<h1> A New Era </h1>
+<h2> Shiny-based Clinical Submissions using WebAssembly </h2>
+<br>
+<br>
+<br>
+<br>
+<h3> Eric Nantz </h3>
+<h3> Eli Lilly & Company </h3>
+<h3> posit::conf(2024) </h3>
+
+![](assets/img/qr.svg){.absolute bottom=-150 right=0 width="15%"}
+
 ## {background-image="assets/img/paperboy_bike.jpg" background-size="contain"}
+
 
 ::: {.absolute left="1%" top="-5%" style="font-size:1.5em; padding: 0.1em 0.2em; background-color: rgba(255, 255, 255, .5); backdrop-filter: blur(5px); box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .5); border-radius: 5px;"}
 The results are in!
@@ -230,6 +250,31 @@ I saw firsthand the potential of such a collaboration with the advent of the R/P
 [submissions-pilot4-webr.netlify.app](https://submissions-pilot4-webr.netlify.app/)
 :::
 
+## With Great Power... 
+
+![](assets/img/app_filter.png){.absolute top=100 left=10}
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+:::
+
+::: {.column width="70%"}
+
+:::: {.incremental}
+
++ Dynamically updates p-values based on filtered observation
++ Potential for confusion and misinterpretation 
++ Compromise: Allow filtering within visualization module only
+
+::::
+
+:::
+
+::::
+
+
 ## The Future Ahead
 
 * Submission to FDA in progress
@@ -291,6 +336,35 @@ I saw firsthand the potential of such a collaboration with the advent of the R/P
 * Hye Soo Cho
 
 :::
+
+:::
+
+::::
+
+## Thank You!
+
+:::: {.columns}
+
+::: {.column width=50%}
+
+{{< fa solid display >}} [Slides](https://rpodcast.github.io/shiny-webr-posit2024)
+
+{{< fa solid microphone size=xl >}} [R-Podcast](https://r-podcast.org)
+
+{{< fa solid microphone size=xl >}} [R Weekly Highlights](https://serve.podhome.fm/r-weekly-highlights)
+
+{{< fa brands mastodon size=xl >}} [\@rpodcast](https://podcastindex.org/@rpodcast)
+
+{{< fa brands linkedin size=xl >}} [eric-nantz](https://www.linkedin.com/in/eric-nantz-6621617/)
+
+{{< fa brands github size=xl >}} [rpodcast](https://github.com/rpodcast/)
+
+![](assets/img/qr.svg){width="70%"}
+:::
+
+::: {.column width=50%}
+
+![](assets/img/pic_with_r_logo_github.jpg)
 
 :::
 
