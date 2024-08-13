@@ -19,12 +19,11 @@ generate_svg(url, filename = "assets/img/qr.svg")
 <br>
 <br>
 <br>
-<br>
 <h3> Eric Nantz </h3>
 <h3> Eli Lilly & Company </h3>
 <h3> posit::conf(2024) </h3>
 
-![](assets/img/qr.svg){.absolute bottom=-150 right=0 width="15%"}
+![](assets/img/qr.svg){.absolute bottom=0 right=0 width="15%"}
 
 ## {background-image="assets/img/paperboy_bike.jpg" background-size="contain"}
 
@@ -244,6 +243,10 @@ I saw firsthand the potential of such a collaboration with the advent of the R/P
 
 ---
 
+{{< mastodon https://mstdn.social/@gws/112836695270039881>}}
+
+---
+
 {{<video "assets/video/pilot4_webassembly_demo.mp4" >}}
 
 ::: footer
@@ -252,7 +255,7 @@ I saw firsthand the potential of such a collaboration with the advent of the R/P
 
 ## With Great Power... 
 
-![](assets/img/app_filter.png){.absolute top=100 left=10}
+![](assets/img/app_filter.png){.absolute top=50 left=10}
 
 :::: {.columns}
 
@@ -359,12 +362,12 @@ I saw firsthand the potential of such a collaboration with the advent of the R/P
 
 {{< fa brands github size=xl >}} [rpodcast](https://github.com/rpodcast/)
 
-![](assets/img/qr.svg){width="70%"}
+![](assets/img/qr.svg){width="40%"}
 :::
 
 ::: {.column width=50%}
 
-![](assets/img/pic_with_r_logo_github.jpg)
+![](assets/img/rpodcast-hexagon.png)
 
 :::
 
