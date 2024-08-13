@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "",
+    "section": "",
+    "text": "A New Era\n\n\nShiny-based Clinical Submissions using WebAssembly\n\n   \n\nEric Nantz\n\n\nEli Lilly & Company\n\n\nposit::conf(2024)"
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "",
+    "section": "",
+    "text": "The results are in!\n\n\nA clinical trial just achieves their primary database lock. A multitude of analyses and visualizations are generated with the “real” data. Imagine you are reviewing these results. Sure, the primary analysis results meet the benchmark for statistical significance. But this is a complex disease state, requiring you to investigate how key efficacy, lab measures, and safety link together."
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "",
+    "section": "",
+    "text": "Many Results\n\n\nIn the not-so-distant past, the results of a clinical trial were sent to reviewers as paper outputs that could fill a small moving truck"
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "",
+    "section": "",
+    "text": "Time to comb through many static outputs. How many outputs are there total? Over 1,000 tables, listings, and graphs."
+  },
+  {
+    "objectID": "index.html#can-we-do-better",
+    "href": "index.html#can-we-do-better",
+    "title": "",
+    "section": "Can we do better?",
+    "text": "Can we do better?\n\n\n\n\n\n\n\n\nInstead of opening / reading these static outputs, what if we had a streamlined interactive application to optimize the review process? The good news is that the technology is here now, thanks to the amazing innovations powered by open-source. Over 10 years ago, Shiny was released to empower R users with the ability to create interactive feature-rich web applications using R code.\nMore recently, the webR package was revealed at last year’s posit conf to bring the power of web-assembly to the R ecosystem"
+  },
+  {
+    "objectID": "index.html#r-submissions-working-group",
+    "href": "index.html#r-submissions-working-group",
+    "title": "",
+    "section": "R Submissions Working Group",
+    "text": "R Submissions Working Group\n\n\n\n\n\n\n\nIndustry and Regulatory members\nCreate submission deliverables with open-source software\nEmulate realistic submission review\nInnovation encouraged!\n\n\n\n\nrconsortium.github.io/submissions-wg"
+  },
+  {
+    "objectID": "index.html#section-5",
+    "href": "index.html#section-5",
+    "title": "",
+    "section": "",
+    "text": "shinydevseries.com"
+  },
+  {
+    "objectID": "index.html#section-7",
+    "href": "index.html#section-7",
+    "title": "",
+    "section": "",
+    "text": "R/Pharma 2018\n\n\nI saw firsthand the potential of such a collaboration with the advent of the R/Pharma conference."
+  },
+  {
+    "objectID": "index.html#install-execute-application",
+    "href": "index.html#install-execute-application",
+    "title": "",
+    "section": "Install & Execute Application",
+    "text": "Install & Execute Application\n\n\n\n\n\n\n\nExtract submission bundle\nInstall R\n(Optionally install RStudio)\nInstall Rtools for package compilation\nInstall {renv} R package\nInstall application package library\nRun application in R process"
+  },
+  {
+    "objectID": "index.html#install-execute-application-1",
+    "href": "index.html#install-execute-application-1",
+    "title": "",
+    "section": "Install & Execute Application",
+    "text": "Install & Execute Application\n\n\n\n\n\n\n\nExtract submission bundle\nLaunch App in web process\nView App in web browser"
+  },
+  {
+    "objectID": "index.html#engine-swap",
+    "href": "index.html#engine-swap",
+    "title": "",
+    "section": "Engine Swap",
+    "text": "Engine Swap\n\n\n\n\n\n\nVerify packages compatibility with WebR\n\n{golem} {rhino}\n\nAugment shinylive::export to inject SAS data sets\nUser-friendly wrappers\nTest with custom Windows virtual machines\n\n\n\n\ngithub.com/RConsortium/submissions-pilot4-webR"
+  },
+  {
+    "objectID": "index.html#with-great-power",
+    "href": "index.html#with-great-power",
+    "title": "",
+    "section": "With Great Power…",
+    "text": "With Great Power…\n\n\n\n\n\n\n\nDynamically updates p-values based on filtered observation\nPotential for confusion and misinterpretation\nCompromise: Allow filtering within visualization module only"
+  },
+  {
+    "objectID": "index.html#the-future-ahead",
+    "href": "index.html#the-future-ahead",
+    "title": "",
+    "section": "The Future Ahead",
+    "text": "The Future Ahead\n\nSubmission to FDA in progress\nInvestigate reproducibility features\nStreamline execution process"
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\n\n\n\n\nSam Parmar (Pfizer)\nBen Straub (GSK)\nRobert Devine (J&J)\nSaghir Bashir (Argenx)\nNing Leng (Roche)\nJoe Rickert\n\n\n\n\n\n\nPedro Silva (Jumping Rivers)\nAndré Veríssimo\nVedha Viyash\nPawel Rzymkiewicz (OlympCode)\n\n\n\n\n\n\nPaul Schuette\nHye Soo Cho"
+  },
+  {
+    "objectID": "index.html#thank-you",
+    "href": "index.html#thank-you",
+    "title": "",
+    "section": "Thank You!",
+    "text": "Thank You!\n\n\n Slides\n R-Podcast\n R Weekly Highlights\n @rpodcast\n eric-nantz\n rpodcast"
+  }
+]
