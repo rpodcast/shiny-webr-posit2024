@@ -3,6 +3,8 @@ format:
   revealjs:
     center-title-slide: false
     link-external-newwindow: true
+revealjs-plugins:
+  - codewindow
 ---
 
 ```{r}
@@ -256,6 +258,22 @@ I saw firsthand the potential of such a collaboration with the advent of the R/P
 :::
 
 ::::
+
+::: {.fragment}
+
+::: {.codewindow .r .absolute top="35%" left="20%" style="font-size: 0.9em;"}
+driver.R
+```{r}
+#| eval: false
+#| echo: true
+source("utils.R")
+extract_app_bundle()
+run_app_webassembly()
+```
+:::
+
+:::
+
 
 ::: footer
 [github.com/RConsortium/submissions-pilot4-webR](https://github.com/RConsortium/submissions-pilot4-webR)
